@@ -1,6 +1,6 @@
 
 # Stock Price Prediction
-In this we have to predict stock prices for respective companies.
+In this we have to predict stock prices for respective companies with the help of LSTM.
 
 # Different Stocks Price
 ![](newplot.png)
