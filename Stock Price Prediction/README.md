@@ -6,4 +6,5 @@ In this we have to predict stock prices for respective companies with the help o
 ![](newplot.png)
 
 # Prediction Of sp500 Stock
-![](newplot(1).png)
+Got 98% accuracy
+![](Prediction.png)
